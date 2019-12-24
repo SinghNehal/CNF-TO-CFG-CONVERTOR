@@ -4,23 +4,7 @@ Convert CFG to CNF
 
 ***
 
-Table Of Contents
-=================
 
-* [Convert CFG to CNF](#convert-cfg-to-cnf)
-* [Table Of Contents](#table-of-contents)
-* [Introduction](#introduction) 
-* [Getting Started](#getting-started)
-  * [Infrastructure Setup and Installation](#infrastructure-setup-and-installation)
-* [Highlights](#highlights)
-  * [Software Resources](#software-resources)
-  * [Usage](#usage)
-* [About](#about)
-  * [Contributor](#contributor)
-  * [Status](#status)
-  
-
-*** 
 
 Introduction
 ============
@@ -37,10 +21,6 @@ Getting Started
 ===============
 Infrastructure Setup and Installation
 -------------------------------------
-1. Clone the sourcecode with Git: 
-```sh
-$ git clone https://github.com/CodesAreHonest/convert-CFG-to-CNF.git
-```  
 2. Go to the cloned repository and change directory to the containing JAR files under out/artifacts/theory_of_computation_jar/.
 ```sh
 $ cd out/artifacts/theory_of_computation_jar
@@ -51,8 +31,6 @@ $ java -jar theory-of-computation.jar
 ```
 ***
 
-Highlights
-==========
 Software Resources
 ------------------
 1. Linux Ubuntu 16.04.03 LTS 64-bit 
