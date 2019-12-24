@@ -49,8 +49,6 @@ $ cd out/artifacts/theory_of_computation_jar
 ```sh
 $ java -jar theory-of-computation.jar
 ```
-<p align="center"><img src="img/run-app-jar-screenshot.png"/></p>  
-
 ***
 
 Highlights
