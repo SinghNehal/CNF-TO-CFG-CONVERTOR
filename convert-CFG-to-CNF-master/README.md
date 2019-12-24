@@ -61,30 +61,3 @@ Software Resources
 2. IntelliJ IDEA Ultimate 
 3. Java 1.8.0_151 SE Runtime Environment 
 
-Usage 
------
-1. Run the application according to the steps mentioned above, pressed the button to proceed.  
-<p align="center"><img src="img/mainselection-screenshot.png"/></p>   
-
-2. Insert the Context-Free Grammar at the textbox, the arrow must be **->** and cannot be other symbols. 
-3. Press the **Convert** button and the output will be display.  
-<p align="center"><img src="img/conversion-screenshot.png"/></p>   
-
-**Remark:** The application is not fault tolerance, if the input is wrong error message will be displayed and it requires user to relaunch the application again.  
-
-*** 
-
-About
-=====
-Contributor
------------
-- **Chai Ying Hua**
-
-
-Status
-------
-This project had stop maintaining and delivered as coursework to Multimedia University. Any improvement or pull request is welcomed. 
-
-
-
-
